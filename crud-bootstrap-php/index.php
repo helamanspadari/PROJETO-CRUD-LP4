@@ -36,7 +36,7 @@
 		</a>
 	</div>
 </div>
-;
+
 <?php else : ?>
 	<div class="alert alert-danger" role="alert">
 		<p><strong>ERRO:</strong> Não foi possível Conectar ao Banco de Dados!</p>
