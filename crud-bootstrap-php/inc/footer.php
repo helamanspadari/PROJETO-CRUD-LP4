@@ -2,7 +2,7 @@
 
 	<hr>
 	<footer class="container">
-		<p>&copy;Projeto PHP</p>
+		<p>&copy;Projeto Anderson, Andre e Helaman</p>
 	</footer>
 
 
